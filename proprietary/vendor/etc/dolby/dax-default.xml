@@ -361,7 +361,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="false"/>
-        <dialog-enhancer-amount value="4"/>
+        <dialog-enhancer-amount value="6"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="240"/>
@@ -391,7 +391,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="false"/>
-        <dialog-enhancer-amount value="4"/>
+        <dialog-enhancer-amount value="6"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -421,7 +421,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="true"/>
-        <dialog-enhancer-amount value="4"/>
+        <dialog-enhancer-amount value="6"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -467,7 +467,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="true"/>
-        <dialog-enhancer-amount value="4"/>
+        <dialog-enhancer-amount value="6"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -497,7 +497,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="true"/>
-        <dialog-enhancer-amount value="7"/>
+        <dialog-enhancer-amount value="9"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -527,7 +527,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="true"/>
-        <dialog-enhancer-amount value="4"/>
+        <dialog-enhancer-amount value="6"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -573,7 +573,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="false"/>
-        <dialog-enhancer-amount value="6"/>
+        <dialog-enhancer-amount value="8"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -603,7 +603,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="false"/>
-        <dialog-enhancer-amount value="6"/>
+        <dialog-enhancer-amount value="8"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -633,7 +633,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="false"/>
-        <dialog-enhancer-amount value="6"/>
+        <dialog-enhancer-amount value="8"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -679,7 +679,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="false"/>
-        <dialog-enhancer-amount value="6"/>
+        <dialog-enhancer-amount value="8"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -709,7 +709,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="false"/>
-        <dialog-enhancer-amount value="6"/>
+        <dialog-enhancer-amount value="8"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -739,7 +739,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="false"/>
-        <dialog-enhancer-amount value="6"/>
+        <dialog-enhancer-amount value="8"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -785,7 +785,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="true"/>
-        <dialog-enhancer-amount value="6"/>
+        <dialog-enhancer-amount value="8"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -815,7 +815,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="true"/>
-        <dialog-enhancer-amount value="6"/>
+        <dialog-enhancer-amount value="8"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -845,7 +845,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="true"/>
-        <dialog-enhancer-amount value="6"/>
+        <dialog-enhancer-amount value="8"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -891,7 +891,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="true"/>
-        <dialog-enhancer-amount value="6"/>
+        <dialog-enhancer-amount value="8"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -921,7 +921,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="true"/>
-        <dialog-enhancer-amount value="6"/>
+        <dialog-enhancer-amount value="8"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -951,7 +951,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="true"/>
-        <dialog-enhancer-amount value="6"/>
+        <dialog-enhancer-amount value="8"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -997,7 +997,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="false"/>
-        <dialog-enhancer-amount value="6"/>
+        <dialog-enhancer-amount value="8"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -1027,7 +1027,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="false"/>
-        <dialog-enhancer-amount value="6"/>
+        <dialog-enhancer-amount value="8"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -1057,7 +1057,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="false"/>
-        <dialog-enhancer-amount value="6"/>
+        <dialog-enhancer-amount value="8"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -1103,7 +1103,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="false"/>
-        <dialog-enhancer-amount value="6"/>
+        <dialog-enhancer-amount value="8"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -1133,7 +1133,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="false"/>
-        <dialog-enhancer-amount value="6"/>
+        <dialog-enhancer-amount value="8"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -1163,7 +1163,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="false"/>
-        <dialog-enhancer-amount value="6"/>
+        <dialog-enhancer-amount value="8"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -1209,7 +1209,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="false"/>
-        <dialog-enhancer-amount value="9"/>
+        <dialog-enhancer-amount value="11"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="240"/>
@@ -1239,7 +1239,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="false"/>
-        <dialog-enhancer-amount value="9"/>
+        <dialog-enhancer-amount value="11"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -1269,7 +1269,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="false"/>
-        <dialog-enhancer-amount value="6"/>
+        <dialog-enhancer-amount value="8"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -1315,7 +1315,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="true"/>
-        <dialog-enhancer-amount value="7"/>
+        <dialog-enhancer-amount value="9"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="240"/>
@@ -1345,7 +1345,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="true"/>
-        <dialog-enhancer-amount value="9"/>
+        <dialog-enhancer-amount value="11"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -1375,7 +1375,7 @@
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
         <dialog-enhancer-enable value="false"/>
-        <dialog-enhancer-amount value="6"/>
+        <dialog-enhancer-amount value="8"/>
         <dialog-enhancer-ducking value="0"/>
         <mi-virtualizer-binaural-steering-enable value="false"/>
         <peak-value value="256"/>
@@ -1450,7 +1450,7 @@
       </regulator-tuning>
       <regulator-sibilance-suppress-amounts-left value="0,0,0,0,0,0"/>
       <regulator-sibilance-suppress-amounts-right value="0,0,0,0,0,0"/>
-      <bass-enhancer-boost value="36"/>
+      <bass-enhancer-boost value="192"/>
       <bass-enhancer-cutoff-frequency value="303"/>
       <bass-enhancer-width value="8"/>
       <bass-extraction-cutoff-frequency value="200"/>
@@ -1479,16 +1479,16 @@
       <virtual-bass-mix-freqs frequency_low="202" frequency_high="319"/>
       <virtual-bass-src-freqs frequency_low="30" frequency_high="270"/>
       <virtual-bass-subgains harmonic_2="8" harmonic_3="96" harmonic_4="20"/>
-      <virtual-bass-harmgains value="-160,48,48,48"/>
-      <virtual-bass-hybgains value="0,-320,-320,-320,-320,-320"/>
+      <virtual-bass-harmgains value="-160,48,16,64"/>
+      <virtual-bass-hybgains value="32,-48,-48,-225,-320,-320"/>
       <virtual-bass-rolloff-gain value="0"/>
-      <virtual-bass-blend-linear-gain value="-18"/>
+      <virtual-bass-blend-linear-gain value="-19"/>
       <virtual-bass-mix-frequency value="100,1500"/>
-      <virtual-bass-compressor-tuning value="1,60,-224,96,32,50,50"/>
-      <bass-mbdrc-tuning value="1,-1600,0,-1120,-400,0,-32,5,10,0,1,-1600,0,-1120,-400,0,-64,39,42,0,1,-1600,0,-1120,-128,-32,-48,43,49,16,1,-1600,0,-1120,-400,0,-32,55,62,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0"/>
-      <virtualizer-front-speaker-angle value="10"/>
-      <virtualizer-height-speaker-angle value="10"/>
-      <virtualizer-surround-speaker-angle value="10"/>
+      <virtual-bass-compressor-tuning value="1,77,-217,96,32,50,50"/>
+      <bass-mbdrc-tuning value="1,-1600,0,-1120,-400,0,-64,5,10,0,1,-1600,48,-1120,-144,0,-80,48,58,64,1,-1600,48,-1120,-144,0,-80,48,52,80,1,-1600,0,-1120,-160,0,-80,32,58,64,1,-1600,0,-1120,-112,0,-48,40,49,48,1,-1600,0,-1120,-400,0,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0"/>
+      <virtualizer-front-speaker-angle value="20"/>
+      <virtualizer-height-speaker-angle value="20"/>
+      <virtualizer-surround-speaker-angle value="20"/>
       <volume-modeler-calibration value="0"/>
       <audio-optimizer-enable value="true"/>
       <volume-leveler-compressor-enable value="false"/>
@@ -1550,7 +1550,7 @@
       </regulator-tuning>
       <regulator-sibilance-suppress-amounts-left value="0,0,0,0,0,0"/>
       <regulator-sibilance-suppress-amounts-right value="0,0,0,0,0,0"/>
-      <bass-enhancer-boost value="36"/>
+      <bass-enhancer-boost value="192"/>
       <bass-enhancer-cutoff-frequency value="303"/>
       <bass-enhancer-width value="8"/>
       <bass-extraction-cutoff-frequency value="200"/>
@@ -1579,16 +1579,16 @@
       <virtual-bass-mix-freqs frequency_low="202" frequency_high="319"/>
       <virtual-bass-src-freqs frequency_low="30" frequency_high="270"/>
       <virtual-bass-subgains harmonic_2="8" harmonic_3="96" harmonic_4="20"/>
-      <virtual-bass-harmgains value="-160,48,48,48"/>
-      <virtual-bass-hybgains value="0,-320,-320,-320,-320,-320"/>
+      <virtual-bass-harmgains value="-160,48,16,64"/>
+      <virtual-bass-hybgains value="32,-48,-48,-225,-320,-320"/>
       <virtual-bass-rolloff-gain value="0"/>
-      <virtual-bass-blend-linear-gain value="-18"/>
+      <virtual-bass-blend-linear-gain value="-19"/>
       <virtual-bass-mix-frequency value="100,1500"/>
-      <virtual-bass-compressor-tuning value="1,60,-224,96,32,50,50"/>
-      <bass-mbdrc-tuning value="1,-1600,0,-1120,-400,0,-32,5,10,0,1,-1600,0,-1120,-400,0,-64,39,42,0,1,-1600,0,-1120,-128,-32,-48,43,49,16,1,-1600,0,-1120,-400,0,-32,55,62,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0"/>
-      <virtualizer-front-speaker-angle value="10"/>
-      <virtualizer-height-speaker-angle value="10"/>
-      <virtualizer-surround-speaker-angle value="10"/>
+      <virtual-bass-compressor-tuning value="1,77,-217,96,32,50,50"/>
+      <bass-mbdrc-tuning value="1,-1600,0,-1120,-400,0,-64,5,10,0,1,-1600,48,-1120,-144,0,-80,48,58,64,1,-1600,48,-1120,-144,0,-80,48,52,80,1,-1600,0,-1120,-160,0,-80,32,58,64,1,-1600,0,-1120,-112,0,-48,40,49,48,1,-1600,0,-1120,-400,0,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0"/>
+      <virtualizer-front-speaker-angle value="20"/>
+      <virtualizer-height-speaker-angle value="20"/>
+      <virtualizer-surround-speaker-angle value="20"/>
       <volume-modeler-calibration value="0"/>
       <audio-optimizer-enable value="true"/>
       <volume-leveler-compressor-enable value="false"/>
@@ -1649,7 +1649,7 @@
       </regulator-tuning>
       <regulator-sibilance-suppress-amounts-left value="0,0,0,0,0,0"/>
       <regulator-sibilance-suppress-amounts-right value="0,0,0,0,0,0"/>
-      <bass-enhancer-boost value="36"/>
+      <bass-enhancer-boost value="192"/>
       <bass-enhancer-cutoff-frequency value="303"/>
       <bass-enhancer-width value="8"/>
       <bass-extraction-cutoff-frequency value="200"/>
@@ -1678,16 +1678,16 @@
       <virtual-bass-mix-freqs frequency_low="202" frequency_high="319"/>
       <virtual-bass-src-freqs frequency_low="30" frequency_high="270"/>
       <virtual-bass-subgains harmonic_2="8" harmonic_3="96" harmonic_4="20"/>
-      <virtual-bass-harmgains value="-160,48,48,48"/>
-      <virtual-bass-hybgains value="0,-320,-320,-320,-320,-320"/>
+      <virtual-bass-harmgains value="-160,48,16,64"/>
+      <virtual-bass-hybgains value="32,-48,-48,-225,-320,-320"/>
       <virtual-bass-rolloff-gain value="0"/>
-      <virtual-bass-blend-linear-gain value="-18"/>
+      <virtual-bass-blend-linear-gain value="-19"/>
       <virtual-bass-mix-frequency value="100,1500"/>
-      <virtual-bass-compressor-tuning value="1,60,-224,96,32,50,50"/>
-      <bass-mbdrc-tuning value="1,-1600,0,-1120,-400,0,-32,5,10,0,1,-1600,0,-1120,-400,0,-64,39,42,0,1,-1600,0,-1120,-128,-32,-48,43,49,16,1,-1600,0,-1120,-400,0,-32,55,62,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0"/>
-      <virtualizer-front-speaker-angle value="10"/>
-      <virtualizer-height-speaker-angle value="10"/>
-      <virtualizer-surround-speaker-angle value="10"/>
+      <virtual-bass-compressor-tuning value="1,77,-217,96,32,50,50"/>
+      <bass-mbdrc-tuning value="1,-1600,0,-1120,-400,0,-64,5,10,0,1,-1600,48,-1120,-144,0,-80,48,58,64,1,-1600,48,-1120,-144,0,-80,48,52,80,1,-1600,0,-1120,-160,0,-80,32,58,64,1,-1600,0,-1120,-112,0,-48,40,49,48,1,-1600,0,-1120,-400,0,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0"/>
+      <virtualizer-front-speaker-angle value="20"/>
+      <virtualizer-height-speaker-angle value="20"/>
+      <virtualizer-surround-speaker-angle value="20"/>
       <volume-modeler-calibration value="0"/>
       <audio-optimizer-enable value="true"/>
       <volume-leveler-compressor-enable value="false"/>
@@ -1748,7 +1748,7 @@
       </regulator-tuning>
       <regulator-sibilance-suppress-amounts-left value="0,0,0,0,0,0"/>
       <regulator-sibilance-suppress-amounts-right value="0,0,0,0,0,0"/>
-      <bass-enhancer-boost value="24"/>
+      <bass-enhancer-boost value="192"/>
       <bass-enhancer-cutoff-frequency value="303"/>
       <bass-enhancer-width value="8"/>
       <bass-extraction-cutoff-frequency value="200"/>
@@ -1777,16 +1777,16 @@
       <virtual-bass-mix-freqs frequency_low="202" frequency_high="319"/>
       <virtual-bass-src-freqs frequency_low="30" frequency_high="270"/>
       <virtual-bass-subgains harmonic_2="8" harmonic_3="96" harmonic_4="20"/>
-      <virtual-bass-harmgains value="-160,48,48,48"/>
-      <virtual-bass-hybgains value="0,-320,-320,-320,-320,-320"/>
+      <virtual-bass-harmgains value="-160,48,16,64"/>
+      <virtual-bass-hybgains value="32,-48,-48,-225,-320,-320"/>
       <virtual-bass-rolloff-gain value="0"/>
-      <virtual-bass-blend-linear-gain value="-18"/>
+      <virtual-bass-blend-linear-gain value="-19"/>
       <virtual-bass-mix-frequency value="100,1500"/>
-      <virtual-bass-compressor-tuning value="1,60,-224,96,32,50,50"/>
-      <bass-mbdrc-tuning value="1,-1600,0,-1120,-400,0,-32,5,10,0,1,-1600,0,-1120,-400,0,-64,39,42,0,1,-1600,0,-1120,-128,-32,-48,43,49,16,1,-1600,0,-1120,-400,0,-32,55,62,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0"/>
-      <virtualizer-front-speaker-angle value="10"/>
-      <virtualizer-height-speaker-angle value="10"/>
-      <virtualizer-surround-speaker-angle value="10"/>
+      <virtual-bass-compressor-tuning value="1,77,-217,96,32,50,50"/>
+      <bass-mbdrc-tuning value="1,-1600,0,-1120,-400,0,-64,5,10,0,1,-1600,48,-1120,-144,0,-80,48,58,64,1,-1600,48,-1120,-144,0,-80,48,52,80,1,-1600,0,-1120,-160,0,-80,32,58,64,1,-1600,0,-1120,-112,0,-48,40,49,48,1,-1600,0,-1120,-400,0,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0"/>
+      <virtualizer-front-speaker-angle value="20"/>
+      <virtualizer-height-speaker-angle value="20"/>
+      <virtualizer-surround-speaker-angle value="20"/>
       <volume-modeler-calibration value="0"/>
       <audio-optimizer-enable value="true"/>
       <volume-leveler-compressor-enable value="false"/>
@@ -1876,16 +1876,16 @@
       <virtual-bass-mix-freqs frequency_low="94" frequency_high="469"/>
       <virtual-bass-src-freqs frequency_low="35" frequency_high="160"/>
       <virtual-bass-subgains harmonic_2="-32" harmonic_3="-144" harmonic_4="-192"/>
-      <virtual-bass-harmgains value="-160,48,48,48"/>
-      <virtual-bass-hybgains value="0,-320,-320,-320,-320,-320"/>
+      <virtual-bass-harmgains value="-160,48,16,64"/>
+      <virtual-bass-hybgains value="32,-48,-48,-225,-320,-320"/>
       <virtual-bass-rolloff-gain value="0"/>
-      <virtual-bass-blend-linear-gain value="-18"/>
+      <virtual-bass-blend-linear-gain value="-19"/>
       <virtual-bass-mix-frequency value="100,1500"/>
-      <virtual-bass-compressor-tuning value="1,60,-224,96,32,50,50"/>
-      <bass-mbdrc-tuning value="1,-1600,0,-1120,-400,0,-32,5,10,0,1,-1600,0,-1120,-400,0,-64,39,42,0,1,-1600,0,-1120,-128,-32,-48,43,49,16,1,-1600,0,-1120,-400,0,-32,55,62,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0"/>
-      <virtualizer-front-speaker-angle value="10"/>
-      <virtualizer-height-speaker-angle value="10"/>
-      <virtualizer-surround-speaker-angle value="10"/>
+      <virtual-bass-compressor-tuning value="1,77,-217,96,32,50,50"/>
+      <bass-mbdrc-tuning value="1,-1600,0,-1120,-400,0,-64,5,10,0,1,-1600,48,-1120,-144,0,-80,48,58,64,1,-1600,48,-1120,-144,0,-80,48,52,80,1,-1600,0,-1120,-160,0,-80,32,58,64,1,-1600,0,-1120,-112,0,-48,40,49,48,1,-1600,0,-1120,-400,0,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0"/>
+      <virtualizer-front-speaker-angle value="20"/>
+      <virtualizer-height-speaker-angle value="20"/>
+      <virtualizer-surround-speaker-angle value="20"/>
       <volume-modeler-calibration value="0"/>
       <audio-optimizer-enable value="true"/>
       <volume-leveler-compressor-enable value="false"/>
@@ -1972,16 +1972,16 @@
       <virtual-bass-mix-freqs frequency_low="99" frequency_high="281"/>
       <virtual-bass-src-freqs frequency_low="30" frequency_high="90"/>
       <virtual-bass-subgains harmonic_2="-48" harmonic_3="-480" harmonic_4="-240"/>
-      <virtual-bass-harmgains value="-160,48,48,48"/>
-      <virtual-bass-hybgains value="0,-320,-320,-320,-320,-320"/>
+      <virtual-bass-harmgains value="-160,48,16,64"/>
+      <virtual-bass-hybgains value="32,-48,-48,-225,-320,-320"/>
       <virtual-bass-rolloff-gain value="0"/>
-      <virtual-bass-blend-linear-gain value="-18"/>
+      <virtual-bass-blend-linear-gain value="-19"/>
       <virtual-bass-mix-frequency value="100,1500"/>
-      <virtual-bass-compressor-tuning value="1,60,-224,96,32,50,50"/>
-      <bass-mbdrc-tuning value="1,-1600,0,-1120,-400,0,-32,5,10,0,1,-1600,0,-1120,-400,0,-64,39,42,0,1,-1600,0,-1120,-128,-32,-48,43,49,16,1,-1600,0,-1120,-400,0,-32,55,62,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0"/>
-      <virtualizer-front-speaker-angle value="10"/>
-      <virtualizer-height-speaker-angle value="10"/>
-      <virtualizer-surround-speaker-angle value="10"/>
+      <virtual-bass-compressor-tuning value="1,77,-217,96,32,50,50"/>
+      <bass-mbdrc-tuning value="1,-1600,0,-1120,-400,0,-64,5,10,0,1,-1600,48,-1120,-144,0,-80,48,58,64,1,-1600,48,-1120,-144,0,-80,48,52,80,1,-1600,0,-1120,-160,0,-80,32,58,64,1,-1600,0,-1120,-112,0,-48,40,49,48,1,-1600,0,-1120,-400,0,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0"/>
+      <virtualizer-front-speaker-angle value="20"/>
+      <virtualizer-height-speaker-angle value="20"/>
+      <virtualizer-surround-speaker-angle value="20"/>
       <volume-modeler-calibration value="160"/>
       <audio-optimizer-enable value="false"/>
       <volume-leveler-compressor-enable value="false"/>
@@ -2066,16 +2066,16 @@
       <virtual-bass-mix-freqs frequency_low="94" frequency_high="469"/>
       <virtual-bass-src-freqs frequency_low="35" frequency_high="160"/>
       <virtual-bass-subgains harmonic_2="-32" harmonic_3="-144" harmonic_4="-192"/>
-      <virtual-bass-harmgains value="-160,48,48,48"/>
-      <virtual-bass-hybgains value="0,-320,-320,-320,-320,-320"/>
+      <virtual-bass-harmgains value="-160,48,16,64"/>
+      <virtual-bass-hybgains value="32,-48,-48,-225,-320,-320"/>
       <virtual-bass-rolloff-gain value="0"/>
-      <virtual-bass-blend-linear-gain value="-18"/>
+      <virtual-bass-blend-linear-gain value="-19"/>
       <virtual-bass-mix-frequency value="100,1500"/>
-      <virtual-bass-compressor-tuning value="1,60,-224,96,32,50,50"/>
-      <bass-mbdrc-tuning value="1,-1600,0,-1120,-400,0,-32,5,10,0,1,-1600,0,-1120,-400,0,-64,39,42,0,1,-1600,0,-1120,-128,-32,-48,43,49,16,1,-1600,0,-1120,-400,0,-32,55,62,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0"/>
-      <virtualizer-front-speaker-angle value="10"/>
-      <virtualizer-height-speaker-angle value="10"/>
-      <virtualizer-surround-speaker-angle value="10"/>
+      <virtual-bass-compressor-tuning value="1,77,-217,96,32,50,50"/>
+      <bass-mbdrc-tuning value="1,-1600,0,-1120,-400,0,-64,5,10,0,1,-1600,48,-1120,-144,0,-80,48,58,64,1,-1600,48,-1120,-144,0,-80,48,52,80,1,-1600,0,-1120,-160,0,-80,32,58,64,1,-1600,0,-1120,-112,0,-48,40,49,48,1,-1600,0,-1120,-400,0,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0,1,-1600,0,-1120,-400,-240,0,5,10,0"/>
+      <virtualizer-front-speaker-angle value="20"/>
+      <virtualizer-height-speaker-angle value="20"/>
+      <virtualizer-surround-speaker-angle value="20"/>
       <volume-modeler-calibration value="0"/>
       <audio-optimizer-enable value="false"/>
       <volume-leveler-compressor-enable value="false"/>
